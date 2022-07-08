@@ -1,6 +1,6 @@
 # [ARCHIVED] vite-plugin-react
 
-This repo has moved to [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh).
+This repo has moved to [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react).
 
 <hr>
 
